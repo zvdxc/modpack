@@ -1,3 +1,2 @@
 Curseforge.zip filter=lfs diff=lfs merge=lfs -text
-index.html filter=lfs diff=lfs merge=lfs -text
 Modrinth.mrpack filter=lfs diff=lfs merge=lfs -text
